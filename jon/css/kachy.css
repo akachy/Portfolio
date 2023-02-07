@@ -1,0 +1,36 @@
+#navbarsExample04 ul li a:hover
+/* #navbarSupportedContentul li a.current */
+{
+    background-color: rgb(255, 217, 0);
+    
+    border-radius: 12px;
+    transition: .9s ease-out;
+    padding: 20px;
+}
+#navbarsExample04 ul li a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+#home-info {
+    background: url(../images/pexels-mark-stebnicki-2252584.jpg);
+    background-repeat: no-repeat;
+    min-height: 840px;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    width: 100%;
+}
+#home-info p {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+#fresh {
+    color: blue;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}

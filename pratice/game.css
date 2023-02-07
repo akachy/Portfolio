@@ -1,0 +1,22 @@
+.hi {
+    margin: 20px;
+    background-color: gray;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.primary {
+    background-color: blue;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    margin-left: 20px;
+}
+
+td{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    border: 5px solid black;
+    font-size: 100px;
+}
